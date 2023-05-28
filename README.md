@@ -12,7 +12,7 @@ Order Management: The application allows users to create and manage their pizza 
 
 Blockchain Integration: The application incorporates blockchain technology to enhance security and transparency. Each pizza order is recorded as a transaction on the blockchain, creating an immutable and auditable record of all orders. This ensures that order details cannot be tampered with and provides a transparent history of the entire ordering process.
 
-4
+
 
 
 
